@@ -1,0 +1,6 @@
+brew reinstall gcc --without-multilib
+brew install gsl
+
+CC=$(which gcc-8) CXX=$(which g++-8) pip install -e .
+
+

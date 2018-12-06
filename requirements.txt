@@ -1,0 +1,10 @@
+cycler==0.10.0
+Cython==0.29.1
+kiwisolver==1.0.1
+matplotlib==3.0.2
+numpy==1.15.4
+pyparsing==2.3.0
+-e git+https://github.com/slinderman/pypolyagamma.git@aafbe582e7b098ac91073abc3b3fcdef3504ae21#egg=pypolyagamma
+python-dateutil==2.7.5
+scipy==1.1.0
+six==1.11.0
