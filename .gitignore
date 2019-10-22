@@ -1,0 +1,24 @@
+# Mac OS
+**/.DS_Store
+
+# Vim
+**/*.swp
+
+# Pycharm
+.idea
+
+# Python
+venv
+bin
+**/*.pyc
+
+# Simulation results
+**/*.pkl
+**/*.npy
+**/*.npz
+**/*.h5
+
+# Figures
+*.pdf
+
+pypolyagamma/

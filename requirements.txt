@@ -1,10 +1,12 @@
-cycler==0.10.0
-Cython==0.29.1
-kiwisolver==1.0.1
+ipython==7.2.0
+line_profiler==2.1.2
 matplotlib==3.0.2
-numpy==1.15.4
-pyparsing==2.3.0
--e git+https://github.com/slinderman/pypolyagamma.git@aafbe582e7b098ac91073abc3b3fcdef3504ae21#egg=pypolyagamma
-python-dateutil==2.7.5
-scipy==1.1.0
-six==1.11.0
+numpy-groupies==0.9.7
+pathos==0.2.3
+pyemd==0.4.4
+tabulate==0.8.3
+joblib==0.13.2
+xarray==0.12.3
+ipython==7.2.0
+xyzpy==0.3.1
+funcy==1.13
